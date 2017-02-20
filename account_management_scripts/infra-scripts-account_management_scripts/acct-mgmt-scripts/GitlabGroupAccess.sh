@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###################################################################
-#### Author       :   Khamruddin Khamruddins                     ##
+#### Author       :   Narendra Munagala                     ##
 #### Description  :   Script to add memebers to respective group ## 
 ###################################################################
 
